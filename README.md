@@ -2,7 +2,6 @@
 
 Autonomous navigation system for the TurtleBot4 using custom SLAM mapping, A* path planning, and a pure-pursuit-style path follower — built entirely from scratch in ROS 2 Humble without Nav2.
 
-Developed as part of **ME 597: Autonomous Systems** at Purdue University (Fall 2025).
 
 ---
 
@@ -19,9 +18,7 @@ A companion Jupyter Notebook (`navigation_astar_f24.ipynb`) walks through BFS, D
 
 ## Demo
 
-https://github.com/user-attachments/assets/placeholder
-
-> *Replace the link above with your actual video URL (upload `Lab3_Robot_vid.mp4` as a GitHub release asset, or link a YouTube / Google Drive upload).*
+https://www.dropbox.com/scl/fi/15r06xz7ezlj5jztfyu6d/A_star_navigation.mp4?rlkey=hhy2typpejguz4yrl39t5catd&st=llbs0ma4&dl=0
 
 ## Repository Structure
 
