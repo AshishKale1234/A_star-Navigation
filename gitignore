@@ -1,0 +1,26 @@
+# Build artifacts
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# ROS 2 bag files (large binaries)
+bag_files/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Videos (too large — link in README instead)
+*.mp4
+*.avi
+*.mkv
